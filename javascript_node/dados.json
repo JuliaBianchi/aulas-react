@@ -1,0 +1,7 @@
+{
+    "nome" : "Julia Spader Bianchi",
+    "email" : "julia@gmail.com",
+    "code" : "12345678",
+    "brasileiro" : true,
+    "games" : ["Tomb Raider", "CS", "LOL"]
+}
